@@ -1,0 +1,4 @@
+// android/settings.gradle
+rootProject.name = 'RecipeTM_proj'
+
+include ':app'
